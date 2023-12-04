@@ -4,7 +4,8 @@ I am a passionate coder with a knack for solving complex problems and managing d
 
 ## Education
 
-- **BS Computer Science** 
+- **BS Computer Science**
+- 
   New Era University
   2021-Present
 
