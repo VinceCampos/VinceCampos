@@ -2,7 +2,7 @@
 
 I am a passionate coder with a knack for solving complex problems and managing databases. Currently pursuing a BS in Computer Science at New Era University.
 
-## Education
+## Education 🎓
 
 - **BS Computer Science**
 - 
@@ -22,7 +22,7 @@ I am a passionate coder with a knack for solving complex problems and managing d
 - **Databases**: IBM DB2 Cloud
 - **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
-## Connect with Me 
+## Connect with Me 🌍
 
 - **LinkedIn**: [LinkedIn Profile](LinkedIn_Profile_Link)
 - **Email**: campos.vince0119@gmail.com
