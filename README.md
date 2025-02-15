@@ -14,6 +14,7 @@ I am a passionate coder with a knack for solving complex problems and managing d
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=851E83406BFECD45024A29A110A3E6496C7DE819B69C85927B20F1829BA7C207&fbclid=IwAR3-yOG7afp9R1NyFDLfFy32Ao8gXCQs13KgDOFwb575nuMCTq3laaD5w-U)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A096084524344ACB69228F643A9BF910CC7CE25BC9FF152DC743CEFACF344DF8&fbclid=IwAR3RKsHKgSj25082EtfBmJGn2bEtYaGusNWJMVNHA5oHL5cuBtDsqqeXi4o)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/76a5ec0bb13b4da6be2eee6b29036fbd)
+- [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/Vince_Campos/responsive-web-design)
 
 ## Skills 📚
 
