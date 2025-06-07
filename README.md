@@ -20,7 +20,7 @@ I am a passionate coder with a knack for solving complex problems and managing d
 
 - **Programming**: Java, Javascript, PHP, Python
 - **Databases**: IBM DB2 Cloud
-- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML, Visual Studio
+- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML, Visual Studio, Power BI, Tableau
 
 ## Connect with Me 🌍
 
