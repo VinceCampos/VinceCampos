@@ -19,7 +19,7 @@ I am a passionate coder with a knack for solving complex problems and managing d
 ## Skills 📚
 
 - **Programming**: Java, Javascript, PHP, Python
-- **Databases**: IBM DB2 Cloud
+- **Databases**: IBM DB2 Cloud, HeidiSQL by Laragon
 - **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML, Visual Studio, Power BI, Tableau
 
 ## Group Projects 🏗️
