@@ -22,6 +22,11 @@ I am a passionate coder with a knack for solving complex problems and managing d
 - **Databases**: IBM DB2 Cloud
 - **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML, Visual Studio, Power BI, Tableau
 
+## Group Projects 🏗️
+- **NEU OJT LINK**: [](https://github.com/JulianaMancera/NEU-OJT-Link)
+- **NEU STAT**: [](https://github.com/SigmaByteKing/neu-salaysay-tracker)
+- **TAGALOG COMPILER**: [](https://github.com/VinceCampos/TagalogCompiler)
+
 ## Connect with Me 🌍
 
 - **LinkedIn**: [LinkedIn Profile](LinkedIn_Profile_Link)
